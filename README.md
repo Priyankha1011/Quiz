@@ -1,2 +1,5 @@
-# Quiz
-This is an web quiz application using HTML,CSS and JAVASCRIPT.
+# Quiz-App
+A Simple Html &amp; Css &amp; Js Quiz App
+<br>
+<br>
+<img src="/images/test.PNG">
